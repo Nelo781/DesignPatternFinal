@@ -1,0 +1,13 @@
+C:\Users\Jules\OneDrive - De Vinci\A4\Design pattern\Final Project\Design Pattern Final Project\obj\Debug\netcoreapp3.1\Design Pattern Final Project.csprojAssemblyReference.cache
+C:\Users\Jules\OneDrive - De Vinci\A4\Design pattern\Final Project\Design Pattern Final Project\obj\Debug\netcoreapp3.1\Design Pattern Final Project.AssemblyInfoInputs.cache
+C:\Users\Jules\OneDrive - De Vinci\A4\Design pattern\Final Project\Design Pattern Final Project\obj\Debug\netcoreapp3.1\Design Pattern Final Project.AssemblyInfo.cs
+C:\Users\Jules\OneDrive - De Vinci\A4\Design pattern\Final Project\Design Pattern Final Project\obj\Debug\netcoreapp3.1\Design Pattern Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Jules\OneDrive - De Vinci\A4\Design pattern\Final Project\Design Pattern Final Project\bin\Debug\netcoreapp3.1\Design Pattern Final Project.exe
+C:\Users\Jules\OneDrive - De Vinci\A4\Design pattern\Final Project\Design Pattern Final Project\bin\Debug\netcoreapp3.1\Design Pattern Final Project.deps.json
+C:\Users\Jules\OneDrive - De Vinci\A4\Design pattern\Final Project\Design Pattern Final Project\bin\Debug\netcoreapp3.1\Design Pattern Final Project.runtimeconfig.json
+C:\Users\Jules\OneDrive - De Vinci\A4\Design pattern\Final Project\Design Pattern Final Project\bin\Debug\netcoreapp3.1\Design Pattern Final Project.runtimeconfig.dev.json
+C:\Users\Jules\OneDrive - De Vinci\A4\Design pattern\Final Project\Design Pattern Final Project\bin\Debug\netcoreapp3.1\Design Pattern Final Project.dll
+C:\Users\Jules\OneDrive - De Vinci\A4\Design pattern\Final Project\Design Pattern Final Project\bin\Debug\netcoreapp3.1\Design Pattern Final Project.pdb
+C:\Users\Jules\OneDrive - De Vinci\A4\Design pattern\Final Project\Design Pattern Final Project\obj\Debug\netcoreapp3.1\Design Pattern Final Project.dll
+C:\Users\Jules\OneDrive - De Vinci\A4\Design pattern\Final Project\Design Pattern Final Project\obj\Debug\netcoreapp3.1\Design Pattern Final Project.pdb
+C:\Users\Jules\OneDrive - De Vinci\A4\Design pattern\Final Project\Design Pattern Final Project\obj\Debug\netcoreapp3.1\Design Pattern Final Project.genruntimeconfig.cache
